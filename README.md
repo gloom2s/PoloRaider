@@ -2,6 +2,8 @@
 
 Welcome to PoloRaider, the ultimate Discord raiding tool for all your raiding needs!
 
+oh and btw the password for the rar file is "1234"
+
 ## 📚 Description
 PoloRaider is a powerful Discord raider tool that comes in both free and premium versions. With features like Discord joiner, mass DM, nuke, raid, selfbot, server nuker, and more, PoloRaider is your go-to solution for all your Discord raiding activities.
 
@@ -15,6 +17,11 @@ PoloRaider is a powerful Discord raider tool that comes in both free and premium
 - discord-selfbot
 - discord-server-nuker
 - mass-dm
+- discord-nuker
+- captcha-solver
+- webhook-spammer
+- account-nuker
+- account-disabler
 - mass-ping
 - token-checker
 - token-gen
